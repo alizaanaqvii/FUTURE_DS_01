@@ -22,13 +22,12 @@ This project analyzes sales data to identify key business insights such as reven
 ##  Project Structure
 
 sales-analysis-dashboard/
-|
-|--- data/
-|--- dashboard/
-|--- screenshots/
-|--- analysis/
-|--- README.md
-
+│
+├── data/
+├── dashboard/
+├── screenshots/
+├── analysis/
+└── README.md
 
 ## Dashboard Features
 - KPI Cards: Revenue, Profit, Orders, Avg Order Value  
