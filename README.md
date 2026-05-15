@@ -52,6 +52,6 @@ sales-analysis-dashboard/
 
 
 ## Dashboard Preview
-![FUTURE_DS_01](sales-analysis-dashboard/screenshots/executive_dashboard.png)
+![Executive Dashboard](screenshots/executive_dashboard.PNG)
 
 
