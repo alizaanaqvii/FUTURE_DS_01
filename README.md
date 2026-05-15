@@ -15,8 +15,7 @@ This project analyzes sales data to identify key business insights such as reven
 
 ## Tools Used
 - Power BI (Dashboard creation)  
-- Excel / CSV (Data source)  
-- Python (Optional analysis)
+- Excel / CSV (Data source)
 
 
 ##  Project Structure
