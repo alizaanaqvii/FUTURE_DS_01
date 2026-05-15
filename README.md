@@ -44,14 +44,14 @@ sales-analysis-dashboard/
 - Some categories generate high revenue but lower profit margins  
 - A small number of products contribute most of the revenue  
 
-## 💡 Recommendations
+## Recommendations
 - Focus on high-profit regions  
 - Optimize pricing for low-margin products  
 - Reduce focus on low-performing products  
 - Improve average order value through bundling strategies  
 
 
-## 📷 Dashboard Preview
-![Dashboard](screenshots/executive_dashboard.png)
+## Dashboard Preview
+![Dashboard](sales-analysis-dashboard/screenshots/executive_dashboard.png)
 
 
