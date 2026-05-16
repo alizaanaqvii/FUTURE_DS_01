@@ -1,5 +1,3 @@
-# FUTURE_DS_01
-
 # Sales Analysis Dashboard (Power BI Project)
 
 ## Project Overview
