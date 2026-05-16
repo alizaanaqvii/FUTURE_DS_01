@@ -28,11 +28,17 @@ This project analyzes sales data to identify key business insights such as reven
 ```
 sales-analysis-dashboard/
 │
-├── data/
 ├── dashboard/
+│   └── sales_dashboard.pbix
+|
+├── data/
+│   └── Sample - Superstore.csv
 ├── screenshots/
-├── analysis/
+│   ├── executive_dashboard.PNG
+|   ├── insights_page.PNG
+|
 └── README.md
+
 ```
 ## Dashboard Features
 - KPI Cards: Revenue, Profit, Orders, Avg Order Value  
