@@ -11,7 +11,13 @@ This project analyzes sales data to identify key business insights such as reven
 - Identify top-performing products and categories  
 - Evaluate regional performance  
 - Understand business profitability  
-- Provide actionable recommendations  
+- Provide actionable recommendations
+
+## Dataset Used
+- **Superstore Sales Dataset**  
+- Source: Kaggle  
+- Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+  
 
 ## Tools Used
 - Power BI (Dashboard creation)  
