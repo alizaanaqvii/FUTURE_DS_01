@@ -33,6 +33,7 @@ sales-analysis-dashboard/
 |
 ├── data/
 │   └── Sample - Superstore.csv
+|
 ├── screenshots/
 │   ├── executive_dashboard.PNG
 |   ├── insights_page.PNG
